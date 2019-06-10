@@ -1,0 +1,6 @@
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\Dom\bin\Release\Dom.dll
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\Dom\bin\Release\Dom.pdb
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\Dom\obj\Release\Dom.csprojAssemblyReference.cache
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\Dom\obj\Release\Dom.csproj.CoreCompileInputs.cache
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\Dom\obj\Release\Dom.dll
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\Dom\obj\Release\Dom.pdb

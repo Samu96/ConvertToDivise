@@ -1,0 +1,5 @@
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\AplicacionWPF\obj\Debug\AplicacionWPF.csprojAssemblyReference.cache
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\AplicacionWPF\obj\Debug\MainWindow.g.cs
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\AplicacionWPF\obj\Debug\App.g.cs
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\AplicacionWPF\obj\Debug\AplicacionWPF_MarkupCompile.cache
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\AplicacionWPF\obj\Debug\AplicacionWPF_MarkupCompile.lref

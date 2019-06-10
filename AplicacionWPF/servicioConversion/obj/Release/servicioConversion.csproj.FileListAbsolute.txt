@@ -1,0 +1,9 @@
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\servicioConversion\obj\Release\servicioConversion.csproj.CoreCompileInputs.cache
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\servicioConversion\obj\Release\servicioConversion.csprojAssemblyReference.cache
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\servicioConversion\bin\Release\servicioConversion.dll
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\servicioConversion\bin\Release\servicioConversion.pdb
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\servicioConversion\obj\Release\servicioConversion.dll
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\servicioConversion\obj\Release\servicioConversion.pdb
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\servicioConversion\bin\Release\Dom.dll
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\servicioConversion\bin\Release\Dom.pdb
+C:\Users\sdprodriguez\source\repos\AplicacionWPF\servicioConversion\obj\Release\servicioConversion.csproj.CopyComplete
